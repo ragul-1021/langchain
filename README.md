@@ -50,7 +50,7 @@ langchainupdated/
 └── README.md                 # Project documentation
 ```
 ## 📚 Notebooks
-1. LangChain Introduction
+## 1. LangChain Introduction
 
 1-langchainintro.ipynb
 
@@ -63,7 +63,7 @@ LLM interaction
 Prompts
 Basic chains
 Invoking models
-2. Model Integration
+## 2. Model Integration
 
 2-modelintegration.ipynb
 
@@ -78,7 +78,7 @@ Gemini integration
 Groq integration
 Model configuration
 Environment variables
-3. Tools
+## 3. Tools
 
 3-tools.ipynb
 
@@ -108,7 +108,7 @@ LLM
   ↓
 Final Response
 ```
-4. Messages
+## 4. Messages
 
 4-messages.ipynb
 
@@ -131,7 +131,7 @@ from langchain_core.messages import (
 
 Messages allow applications to maintain structured conversations between users, models, and tools.
 
-5. Structured Output
+## 5. Structured Output
 
 5-structuredoutput.ipynb
 
@@ -236,7 +236,7 @@ The project focuses on understanding the core building blocks of modern LLM appl
                        │
                        ↓
                 Application Logic
-🔐 Security
+## 🔐 Security
 
 API keys and other secrets should be stored in environment variables.
 
@@ -250,7 +250,7 @@ Private credentials
 
 If an API key has accidentally been committed to Git history, revoke/rotate the key immediately.
 
-📌 Learning Goals
+## 📌 Learning Goals
 
 This project is designed to build a practical understanding of:
 
@@ -263,7 +263,7 @@ How tool calling works
 How structured outputs are generated
 How LLM responses can be consumed by Python applications
 How to manage Python dependencies using uv
-👨‍💻 Author
+## 👨‍💻 Author
 
 Ragul B
 
@@ -272,7 +272,7 @@ GitHub:
 https://github.com/ragul-1021
 ```
 
-📄 License
+## 📄 License
 
 This project is intended primarily for learning, experimentation, and educational purposes.
 
