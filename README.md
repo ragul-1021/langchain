@@ -94,6 +94,7 @@ Tool results
 LLM + tool workflows
 
 Example workflow:
+```
 
 User
   ↓
@@ -106,6 +107,7 @@ Tool Result
 LLM
   ↓
 Final Response
+```
 4. Messages
 
 4-messages.ipynb
