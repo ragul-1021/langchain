@@ -49,7 +49,7 @@ langchainupdated/
 ├── uv.lock                   # Locked dependencies managed by uv
 └── README.md                 # Project documentation
 ```
-📚 Notebooks
+## 📚 Notebooks
 1. LangChain Introduction
 
 1-langchainintro.ipynb
@@ -154,7 +154,7 @@ class Response(TypedDict):
 
 Structured outputs are useful when the LLM response needs to be consumed programmatically.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 Python
 LangChain
 OpenAI
@@ -170,7 +170,7 @@ Python 3.9+
 uv
 Git
 API key for the LLM provider you want to use
-🔧 Installation
+## 🔧 Installation
 1. Clone the repository
 git clone https://github.com/ragul-1021/langchain.git
 2. Navigate into the project
@@ -266,7 +266,9 @@ How to manage Python dependencies using uv
 Ragul B
 
 GitHub:
+```
 https://github.com/ragul-1021
+```
 
 📄 License
 
