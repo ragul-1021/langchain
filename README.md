@@ -182,8 +182,9 @@ uv sync
 4. Activate the virtual environment
 
 Windows PowerShell:
-
+```
 .venv\Scripts\activate
+```
 🔑 Environment Variables
 
 Create a .env file in the project root.
@@ -217,6 +218,7 @@ uv run jupyter lab
 You can then open the notebooks in order:
 
 1 → 2 → 3 → 4 → 5
+
 🧠 Concepts Covered
 
 The project focuses on understanding the core building blocks of modern LLM applications:
