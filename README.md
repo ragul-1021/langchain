@@ -192,7 +192,9 @@ Create a .env file in the project root.
 Example:
 
 OPENAI_API_KEY=your_api_key
+
 GOOGLE_API_KEY=your_api_key
+
 GROQ_API_KEY=your_api_key
 
 Only add the API keys for the providers you actually use.
